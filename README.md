@@ -42,8 +42,7 @@ Performed across multiple tools:
 * Outlier handling
 * Encoding & preprocessing
   🔗 **Python Cleaning File:**
-  `/cleaning/cleaning_script_moataz.py`
-  (Upload first → then copy the link here)
+(https://github.com/Siri1724/SafeLA-Data-Analytics/blob/main/cleaning/cleaning.py)
 
 ---
 
@@ -159,7 +158,7 @@ Dashboards were created using **multiple tools**, each focusing on a specific an
 ## 📄 Documentation
 
 Full project documentation (problem statement, methodology, dashboards, insights, forecasting model):
-📌 `/documentation/Project Documentation.pdf`
+📌 
 
 ---
 
